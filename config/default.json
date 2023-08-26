@@ -1,0 +1,8 @@
+{
+    "baseUrl" : "BASE_URL",
+    "service": "SERVICE",
+    "emailPort": "EMAIL_PORT",
+    "secure": "SECURE",
+    "authEmail": "AUTH_EMAIL",
+    "authPass": "AUTH_PASS"
+}
